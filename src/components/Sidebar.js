@@ -11,8 +11,8 @@ export default function Sidebar() {
                     </div>
                     <div class="nk-sidebar-brand">
                         <a class="logo-link nk-sidebar-logo">
-                            <h1 style={{color:'red',fontSize:'30px'}}>
-                                Hr<span style={{color:'lightblue'}}>MS</span>
+                            <h1 style={{ color: 'red', fontSize: '30px' }}>
+                                Hr<span style={{ color: 'lightblue' }}>MS</span>
                             </h1>
                         </a>
                     </div>
@@ -187,7 +187,7 @@ export default function Sidebar() {
                                         <span class="nk-menu-text">Image Gallery</span>
                                     </a>
                                 </li>
-                                
+
                             </ul>
                         </div>
                     </div>

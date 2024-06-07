@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@fullcalendar/bootstrap": "^5.9.0",
     "@fullcalendar/core": "^5.9.0",
@@ -10,6 +12,8 @@
     "@fullcalendar/list": "^5.9.0",
     "@fullcalendar/react": "^5.9.0",
     "@fullcalendar/timegrid": "^5.9.0",
+    "@mui/material": "^5.15.19",
+    "@mui/styles": "^5.15.16",
     "@react-google-maps/api": "^2.7.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -31,8 +35,6 @@
     "react-data-table-component": "^7.4.6",
     "react-datepicker": "^4.3.0",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
     "react-dropzone": "^11.3.4",
     "react-dual-listbox": "^2.2.0",
     "react-helmet": "^6.1.0",
@@ -42,7 +44,8 @@
     "react-modal-video": "^1.2.8",
     "react-quilljs": "^1.2.17",
     "react-router": "^5.2.1",
-    "react-router-dom": "^5.3.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1",
     "react-select": "^4.3.1",
     "react-slick": "^0.28.1",
     "react-step-builder": "^2.0.11",
@@ -53,7 +56,8 @@
     "simplebar-react": "^2.3.5",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.3",
-    "sweetalert2": "^11.3.1"
+    "sweetalert2": "^11.3.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
